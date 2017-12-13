@@ -53,6 +53,8 @@ void CannyThreshold(int, void*)
 }
 
 
+
+
 void imageCallback(const sensor_msgs::ImageConstPtr& msg)
 {
     try
